@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : TestFicha5.c
+ Name        : jogo.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
@@ -12,42 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-
-	calculartempodetrabalho(10, 00, 0, 18, 00, 0);
-
-
-
-
-
-
-
-
-
-
-
-	return;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	return EXIT_SUCCESS;
+}
