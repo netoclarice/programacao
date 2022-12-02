@@ -16,6 +16,26 @@ int main(void) {
 int value=3;
 int size=5;
 int index = indexOf (array, value, size);
-		printf ("o indice do valor  %i e: %i \n",value,index);
+		//printf ("o indice do valor  %i e: %i \n",value,index);
+
+		int indexm = indexOfmax (array, size);
+		printf ("o indice do valor maximo e: %i \n",indexm);
+
+
+
+
+
+
+
+
+
+
 		return EXIT_SUCCESS;
+
+
+
+
 }
+
+
+
