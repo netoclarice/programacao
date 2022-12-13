@@ -27,7 +27,7 @@ int index = 0;
 	}
 	return index;
 }
-int indexofmin(int array[],int size){
+int indexofmin(int array [],int size){
 int min =array[0];
 int index=0;
 for (int i=1;i< size ;i++){
